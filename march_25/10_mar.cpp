@@ -37,4 +37,4 @@ public:
     long long countOfSubstrings(string word, int k) {
         return atLeastK(word, k) - atLeastK(word, k + 1);
     }
-};
+};1
