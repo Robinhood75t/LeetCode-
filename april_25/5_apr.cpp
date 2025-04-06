@@ -1,0 +1,1 @@
+// this is bit manipulation code , and i am not comfertable with this topic yet.
